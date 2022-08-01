@@ -1,6 +1,6 @@
 {
-	"author" : "Saurabh Chandrakar",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Saurabh Chandrakar",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
